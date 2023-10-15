@@ -1,3 +1,4 @@
+--test
 create procedure syn.usp_ImportFileCustomerSeasonal
 	@ID_Record int
 as
